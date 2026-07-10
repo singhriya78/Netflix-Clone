@@ -5,6 +5,16 @@ body{
     color:white;
 }
 
+.demo-banner{
+    background-color: #222;
+    color: #ccc;
+    text-align: center;
+    font-size: 0.8rem;
+    padding: 6px 12px;
+    position: relative;
+    z-index: 200;
+}
+
 .navbar{
     background-color: transparent;
     position:fixed;
